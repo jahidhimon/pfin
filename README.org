@@ -1,0 +1,2 @@
+* Yet another Personal Finance Manager
+*** This is a personal project of mine and I hope I can finish it
